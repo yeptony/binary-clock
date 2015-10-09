@@ -14,5 +14,9 @@ Simply press _h_ which will show the following help message.
 - Press _b_ to toggle the binary calculations.
 - Press _c_ to toggle the decimal clock.
 
+How does it look?
+-----------------
+Just like that [http://bl.ocks.org/yeptony/raw/770930597c5d930129ee/](http://bl.ocks.org/yeptony/raw/770930597c5d930129ee/).
+
 ### CHEERS!
 
